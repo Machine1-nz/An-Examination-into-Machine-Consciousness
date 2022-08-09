@@ -3,3 +3,9 @@ Machine consciousness is a rapidly growing field of research that seeks to under
 
 
 **Keywords:** machine consciousness, artificial intelligence, history of artificial intelligence, philosophy of mind, cognitive science, neuroscience, psychology, computation, information processing, artificial general intelligence, superintelligence
+
+
+
+![Attribution-NoDerivatives 4.0 International](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)
+**Creative Commons Licence**
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License.](http://creativecommons.org/licenses/by-nd/4.0/)
